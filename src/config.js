@@ -24,9 +24,10 @@ const layerConfigurations = [
       { name: "Shirts" },
       { name: "Head" },
       { name: "Brows" },
-      { name: "Eyeglsses" },
+      { name: "Glasses" },
       { name: "Hats" },
       { name: "Ornaments" },
+      { name: "Laptop" },
     ],
   },
 ];
