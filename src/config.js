@@ -5,8 +5,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Eagle One";
-const description = "Eagle One Code GEN CHAR";
+const namePrefix = "Eagle One Collection";
+const description = "Eagle One Collection";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
@@ -74,7 +74,7 @@ const background = {
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://unfrequent.com", // Replace with your website or remove this line if you do not have one.
 };
 
 const rarityDelimiter = "#";
