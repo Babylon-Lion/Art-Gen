@@ -20,8 +20,8 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 5,
     layersOrder: [
-      { name: "Background" },
-      { name: "Body" },
+      { name: "Backgrounds" },
+      { name: "Shirts" },
       { name: "Head" },
       { name: "Brows" },
       { name: "Eyeglsses" },
